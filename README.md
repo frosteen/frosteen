@@ -11,8 +11,8 @@ To help my clients by means of technical skills.
 Programming • Thesis Projects • Electronics Design • Project Delivery
 
 ## ACHIEVEMENTS
-- Programmed a Best Thesis Customer Project using Raspberry Pi and Python
-- Programmed a Runner Up Thesis Customer Project using Arduino and Python
+- Programmed a Best Thesis Clients Project using Raspberry Pi and Python
+- Programmed a Runner Up Thesis Clients Project using Arduino and Python
 - Became a Raspberry Pi and Python Workshop Instructor
 - Became a SQL Workshop Instructor
 - Became a Web Development Workshop Instructor
