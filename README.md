@@ -1,5 +1,5 @@
 # LUIS DANIEL PAMBID
-PROGRAMMER | +639476207065 | luispambid@gmail.com
+PROGRAMMER • +639476207065 • luispambid@gmail.com
 
 ## ABOUT ME
 An Electronics Engineering graduate at Mapua University who is proficient in various programming languages. He loves to code, learn, and enjoys overcoming challenges. He helps people to code and provides technical support.
