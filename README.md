@@ -2,7 +2,7 @@
 **PROGRAMMER | +639476207065 | luispambid@gmail.com | https://linkedin.com/in/pambidluis**
 
 ## ABOUT ME
-An Electronics Engineering graduate at Mapua University who is proficient in various programming languages. He loves to code, learn, and enjoy overcoming challenges. He helps people to code and provides technical support.
+An Electronics Engineering graduate at Mapua University who is proficient in various programming languages. He loves to code, learn, and enjoys overcoming challenges. He helps people to code and provides technical support.
 
 ## OBJECTIVE
 To help my clients by means of technical skills.
