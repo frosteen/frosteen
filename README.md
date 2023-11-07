@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Engr. Luis Daniel Pambid, ECE, ECT, CCNA, CCNP is a licensed Electronics Engineer and cisco-certified, who is proficient in various programming languages with ADO DevOps experience, and with vast knowledge in Network Engineering. He is a fast learner, enjoys overcoming challenges, and would welcome any opportunity. He started coding since high school, and it's been his primary skill ever since. He helps other people to code and provides technical support.</p>
+<p align="left">Engr. Luis Daniel Pambid, ECE, ECT, CCNA, CCNP is a licensed Electronics Engineer and cisco-certified, who is proficient in various programming languages with Azure DevOps experience, and with vast knowledge in Network Engineering. He is a fast learner, enjoys overcoming challenges, and would welcome any opportunity. He started coding since high school, and it's been his primary skill ever since. He helps other people to code and provides technical support.</p>
 
 <p align="left">His current profession is on Network Engineering, but he do freelance projects as his part-time/sideline. He has good 6+ years of experience in Arduino, Raspberry Pi and Python especially in Image Processing, Object Detection, Automation/Web Scrapping, Databases, Machine Learning, Graphical User Interfaces, Hardware/Software Development.</p>
 
