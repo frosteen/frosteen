@@ -59,6 +59,20 @@
 
 ###
 
+<h3 align="left">📁 Notable Project Repositories</h3>
+
+###
+
+* <a href="https://github.com/frosteen/Smart-CCTV-Security-System-using-Facial-Recognition-through-Deep-Learning">Smart-CCTV-Security-System-using-Facial-Recognition-through-Deep-Learning</a>
+* <a href="https://github.com/frosteen/ExamTopics_Scrapper">ExamTopics_Scrapper</a>
+* <a href="https://github.com/frosteen/Roblox_LUA_Weapon_Scripts">Roblox_LUA_Weapon_Scripts</a>
+* <a href="https://github.com/frosteen/WANDERER-Team-Cardinals-App">WANDERER-Team-Cardinals-App</a>
+* <a href="https://github.com/frosteen/Snake-Game">Snake-Game</a>
+* <a href="https://github.com/frosteen/Technical-Workshops">Technical-Workshops</a>
+* <a href="https://github.com/frosteen/Freelance-Projects">Freelance-Projects</a>
+
+###
+
 <h3 align="left">🛠 Programing Languages and Tools</h3>
 
 ###
