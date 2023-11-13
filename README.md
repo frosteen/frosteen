@@ -173,9 +173,10 @@
 ###
 
 <ul>
-  <li>Mobile / +639476207065</li>
-  <li>LinkedIn / <a href="https://linkedin.com/in/pambidluis">LinkedIn</a></li>
-  <li>Upwork / <a href="https://www.upwork.com/freelancers/~01a17b37eaa7412211">Upwork</a></li>
+  <li>Mobile: +639476207065</li>
+  <li>Email: <a href="mailto:luispambid@gmail.com">luispambid@gmail.com</a></li>
+  <li>LinkedIn: <a href="https://linkedin.com/in/pambidluis">LinkedIn</a></li>
+  <li>Upwork: <a href="https://www.upwork.com/freelancers/~01a17b37eaa7412211">Upwork</a></li>
 </ul>
 
 ###
