@@ -8,6 +8,9 @@
   <a href="https://linkedin.com/in/pambidluis" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
+  <a href="https://www.upwork.com/freelancers/~01a17b37eaa7412211" target="_blank">
+    <img src="https://d1eipm3vz40hy0.cloudfront.net/images/Customer+Stories+/Upwork/upwork_logo.png" height="25" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
@@ -142,6 +145,18 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=frosteen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=frosteen&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+
+###
+
+<h3 align="left">📞 Contact Me</h3>
+
+###
+
+<ul>
+  <li>Mobile / +639476207065</li>
+  <li>LinkedIn / <a href="https://linkedin.com/in/pambidluis">LinkedIn</a></li>
+  <li>Upwork / <a href="https://www.upwork.com/freelancers/~01a17b37eaa7412211">Upwork</a></li>
+</ul>
 
 ###
 
