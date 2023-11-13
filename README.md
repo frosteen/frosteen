@@ -55,7 +55,13 @@
 
 ###
 
-<p align="left">- Programmed a Best Thesis Project using Raspberry Pi and Python<br>- Programmed a Runner Up Thesis Project using Arduino and Python<br>- Became a Raspberry Pi and Python Workshop Instructor<br>- Became a SQL Workshop Instructor<br>- Became a Web Development Workshop Instructor<br>- Recognized as Excellent Work at CYCU, Taiwan<br>- Has helped <a href="https://github.com/frosteen/Freelance-Projects">100+ Client Projects<a></p>
+* Programmed a Best Thesis Project using Raspberry Pi and Python
+* Programmed a Runner Up Thesis Project using Arduino and Python
+* Became a Raspberry Pi and Python Workshop Instructor
+* Became a SQL Workshop Instructor
+* Became a Web Development Workshop Instructor
+* Recognized as Excellent Work at CYCU, Taiwan
+* Has helped <a href="https://github.com/frosteen/Freelance-Projects">100+ Client Projects<a>
 
 ###
 
