@@ -77,6 +77,7 @@
 * <a href="https://github.com/frosteen/Roblox_LUA_Weapon_Scripts">Roblox_LUA_Weapon_Scripts</a>
 * <a href="https://github.com/frosteen/Technical-Workshops">Technical-Workshops</a>
 * <a href="https://github.com/frosteen/Snake-Game">Snake-Game</a>
+* <a href="https://github.com/frosteen/IoT-Based_SM-Megamall_Packet-Tracer_Project">IoT-Based_SM-Megamall_Packet-Tracer_Project</a>
 
 ###
 
