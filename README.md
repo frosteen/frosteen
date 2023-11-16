@@ -8,7 +8,7 @@
   <a href="https://linkedin.com/in/pambidluis" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://www.upwork.com/freelancers/~01a17b37eaa7412211" target="_blank">
+  <a href="https://www.upwork.com/workwith/luisdanielp2" target="_blank">
     <img src="https://d1eipm3vz40hy0.cloudfront.net/images/Customer+Stories+/Upwork/upwork_logo.png" height="25" alt="linkedin logo"  />
   </a>
 </div>
@@ -178,7 +178,7 @@
   <li>Mobile: +639476207065</li>
   <li>Email: <a href="mailto:luispambid@gmail.com">luispambid@gmail.com</a></li>
   <li>LinkedIn: <a href="https://linkedin.com/in/pambidluis">LinkedIn</a></li>
-  <li>Upwork: <a href="https://www.upwork.com/freelancers/~01a17b37eaa7412211">Upwork</a></li>
+  <li>Upwork: <a href="https://www.upwork.com/workwith/luisdanielp2">Upwork</a></li>
 </ul>
 
 ###
