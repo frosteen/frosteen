@@ -172,6 +172,14 @@
 
 ###
 
+<h3 align="left">⌨ Want to Learn to Code my Way?</h3>
+
+###
+
+<p>We can setup a 1v1 meeting, and I'll teach you my ways on how I can easily grasp the basics and syntax of any programming language. You can reach me via email or linkedin. Thank you!</p>
+
+###
+
 <h3 align="left">📞 Contact Me</h3>
 
 ###
