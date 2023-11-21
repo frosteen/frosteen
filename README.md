@@ -33,6 +33,8 @@
 
 <p align="left">His current profession is on Network Engineering, but he does freelance projects as his part-time/sideline. He has good 6+ years of experience in Arduino, Raspberry Pi and Python especially in Image Processing, Object Detection, Automation/Web Scrapping, Databases, Machine Learning, Graphical User Interfaces, Hardware/Software Development.</p>
 
+<p align="left">He is currently learning more about Solidity and Web3, and improving his Web Development Skills using React JS and Node Js Frameworks.</p>
+
 ###
 
 <h3 align="left">🎯 Objective</h3>
