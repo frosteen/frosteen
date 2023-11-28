@@ -192,7 +192,7 @@
 
 ###
 
-<h3 align="left">⌨ Want to Learn to Code my Way?</h3>
+<h3 align="left">🤝 Want to Learn to Code my Way?</h3>
 
 ###
 
