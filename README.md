@@ -29,11 +29,15 @@
 
 ###
 
-<p align="justify">Engr. Luis Daniel Pambid, ECE, ECT, CCNA, CCNP is a licensed Electronics Engineer and cisco-certified, who is proficient in various programming languages with Azure DevOps experience, and with vast knowledge in Network Engineering. He is a fast learner, enjoys overcoming challenges, and would welcome any opportunity. He started coding since high school, and it's been his primary skill ever since. He helps other people to code and provides technical support.</p>
-
-<p align="justify">His current profession is on Network Engineering, but he does freelance projects as his part-time/sideline. He has good 6+ years of experience in Arduino, Raspberry Pi and Python especially in Image Processing, Object Detection, Automation/Web Scrapping, Databases, Machine Learning, Graphical User Interfaces, Hardware/Software Development.</p>
-
-<p align="justify">He is currently learning more about Solidity and Web3, and improving his Web Development Skills using React JS and Node JS Frameworks.</p>
+<p align="justify">
+Engr. Luis Daniel Pambid, ECE, ECT, CCNA, CCNP, is a licensed Electronics Engineer and Cisco-certified professional. Proficient in various programming languages with experience in Azure DevOps, he possesses extensive knowledge in Network Engineering. A fast learner who enjoys overcoming challenges and welcomes any opportunity. He started coding in high school, and it has been his primary skill ever since. He assists others in coding and provides technical support.
+</p>
+<p align="justify">
+While his current profession is in Network Engineering, he also engages in freelance projects as a part-time/sideline to stay updated with evolving technologies. He has over 6 years of experience in Arduino, Raspberry Pi, and Python, particularly in Image Processing, Object Detection, Automation/Web Scraping, Databases, Machine Learning, Graphical User Interfaces, and Hardware/Software Development.
+</p>
+<p align="justify">
+Currently, he is expanding his expertise by learning Solidity and Web3, while enhancing his Web Development skills using React JS and Node JS frameworks.
+</p>
 
 ###
 
