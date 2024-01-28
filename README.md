@@ -53,7 +53,15 @@ Currently, he is expanding his expertise by learning Solidity and Web3, while en
 
 ###
 
-<p align="left">Programming • Thesis Projects • Electronics Design • Project Delivery</p>
+* MOBILE-APP
+* THESIS-DESIGN
+* TSHOOT
+* ELECTRONICS-DESIGN
+* DESKTOP-APP
+* SYSTEM-DESIGN
+* TECH-SUPPORT
+* NETWORK-DESIGN
+* WEB-APP
 
 ###
 
