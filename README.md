@@ -30,13 +30,13 @@
 ###
 
 <p align="justify">
-Engr. Luis Daniel Pambid, ECE, ECT, CCNA, CCNP, is a licensed Electronics Engineer and Cisco-certified professional. Proficient in various programming languages with experience in Azure DevOps, he possesses extensive knowledge in Network Engineering. A fast learner who enjoys overcoming challenges and welcomes any opportunity. He started coding in high school, and it has been his primary skill ever since. He assists others in coding and provides technical support.
-</p>
-<p align="justify">
-While his current profession is in Network Engineering, he also engages in freelance projects as a part-time/sideline to stay updated with evolving technologies. He has over 6 years of experience in Arduino, Raspberry Pi, and Python, particularly in Image Processing, Object Detection, Automation/Web Scraping, Databases, Machine Learning, Graphical User Interfaces, and Hardware/Software Development.
-</p>
-<p align="justify">
-Currently, he is expanding his expertise by learning Solidity and Web3, while enhancing his Web Development skills using React JS and Node JS frameworks.
+Hello, I'm Luis Daniel Pambid, a licensed Electronics Engineer and Cisco-certified professional with a strong background in AI and Automation. Proficient in various programming languages and experienced in Azure DevOps, my expertise extends into Network Engineering. I'm a quick learner who thrives on challenges and embraces every opportunity. My journey with coding began in high school and has evolved into my primary skill. I not only code for myself but also assist others and provide technical support.
+
+With over 3 years of hands-on experience in both Network Data LAN-WAN and Enterprise Network, I specialize in implementing Cisco’s SD-WAN Solutions. I've gained multiple awards in each company I've worked for, consistently exceeding customer expectations. Commended by both lead and higher-ups' managers, I bring not only technical expertise but also strong work ethics, efficiently leading teams of Network Engineers. I am confident that I would be a great asset to your company.
+
+While my current focus is on Network Engineering, I also delve into freelance projects as a part-time endeavor to stay updated with evolving technologies. With over 6 years of experience in Arduino, Raspberry Pi, and Python, I specialize in Image Processing, Object Detection, Automation/Web Scraping, Databases, Machine Learning, Graphical User Interfaces, and Hardware/Software Development.
+
+Currently, I am broadening my expertise by diving into Solidity and Web3, concurrently enhancing my Web Development skills using React JS and Node JS frameworks. With a keen specialization in AI and Automation, backed by a dedication to excellence, I am ready to be a valuable asset to your team.
 </p>
 
 ###
