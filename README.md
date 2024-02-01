@@ -62,6 +62,8 @@ Currently, I am broadening my expertise by diving into Solidity and Web3, concur
 * TECH-SUPPORT
 * NETWORK-DESIGN
 * WEB-APP
+* AI / MACHINE LEARNING
+* AUTOMATION
 
 ###
 
