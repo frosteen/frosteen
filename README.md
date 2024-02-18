@@ -30,7 +30,7 @@
 ###
 
 <p align="justify">
-Hello, I'm Luis Daniel Pambid, a licensed Electronics Engineer and Cisco-certified professional with a strong background in AI and Automation. Proficient in various programming languages, with Azure DevOps experience, and diverse knowledge in technological stacks and platforms, my expertise extends into Network Engineering. I'm a quick learner who thrives on challenges and embraces every opportunity. My journey as an independent developer began in high school, almost 12 years of experience, and has evolved into my primary skill. I not only code for myself but also assist others and provide technical support.
+Hello, I'm Luis Daniel Pambid, a licensed Electronics Engineer and Cisco-certified professional with a strong background in AI and Automation. Proficient in various programming languages, with Azure DevOps experience, and diverse knowledge in technical stacks and platforms, my expertise extends into Network Engineering. I'm a quick learner who thrives on challenges and embraces every opportunity. My journey as an independent developer began in high school, almost 12 years of experience, and has evolved into my primary skill. I not only code for myself but also assist others and provide technical support.
 
 With over 3 years of hands-on experience in both Network Data LAN-WAN and Enterprise Network, I specialize in implementing Cisco’s SD-WAN Solutions. I've gained multiple awards in each company I've worked for, consistently exceeding customer expectations. Commended by both lead and higher-ups' managers, I bring not only technical expertise but also strong work ethics, efficiently leading teams of both Network and Software Engineers. I assure you that I would be a great asset to your company.
 
