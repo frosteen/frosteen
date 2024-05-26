@@ -62,6 +62,7 @@ I have 3 years of hands-on experience in both Network Data LAN-WAN and Enterpris
 * WEB-APP
 * AI / MACHINE LEARNING
 * AUTOMATION
+* AZURE/MS365 SERVICES
 
 ###
 
