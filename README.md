@@ -8,8 +8,11 @@
   <a href="https://linkedin.com/in/pambidluis" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://www.upwork.com/workwith/luisdanielp2" target="_blank">
-    <img src="https://d1eipm3vz40hy0.cloudfront.net/images/Customer+Stories+/Upwork/upwork_logo.png" height="25" alt="linkedin logo"  />
+  <a href="https://www.upwork.com/freelancers/luisdanielp2" target="_blank">
+    <img src="https://d1eipm3vz40hy0.cloudfront.net/images/Customer+Stories+/Upwork/upwork_logo.png" height="25" alt="upwork logo"  />
+  </a>
+  <a href="https://luispambidv26y8py4.contra.com/" target="_blank">
+    <img src="https://media.contra.com/image/upload/mx70gukigryiwtnog5na" height="25" alt="contra logo"  />
   </a>
 </div>
 
@@ -35,6 +38,7 @@ Hello, I'm Luis Daniel Pambid, an experienced full-stack developer, a licensed E
 I delve into freelance projects as a full-time endeavor to stay updated with evolving technologies. With over 6 years of experience in Arduino, Raspberry Pi, and Python, I specialize in Full-Stack Development for both Web and Software applications, such as Image Processing, Object Detection, Automation/Web Scraping, Databases, AI/ML, Graphical User Interfaces, and Hardware/Software Development. I have broadened my expertise into Solidity and Web3 and enhanced my Web Development skills using React JS and Node JS frameworks.
 
 I have 3 years of hands-on experience in both Network Data LAN-WAN and Enterprise Networks; I specialize in implementing Cisco's Automation and SD-WAN Solutions. I've received multiple awards in each company I've worked for, consistently exceeding customer expectations. Commended by both lead and higher-ups' managers, I bring not only technical expertise but also strong work ethics, efficiently leading teams of both Network and Software Engineers. I assure you that I would be a great asset to your company.
+
 </p>
 
 ###
@@ -51,18 +55,18 @@ I have 3 years of hands-on experience in both Network Data LAN-WAN and Enterpris
 
 ###
 
-* MOBILE-APP
-* THESIS-DESIGN
-* TSHOOT
-* ELECTRONICS-DESIGN
-* DESKTOP-APP
-* SYSTEM-DESIGN
-* TECH-SUPPORT
-* NETWORK-DESIGN
-* WEB-APP
-* AI / MACHINE LEARNING
-* AUTOMATION
-* AZURE/MS365 SERVICES
+- MOBILE-APP
+- THESIS-DESIGN
+- TSHOOT
+- ELECTRONICS-DESIGN
+- DESKTOP-APP
+- SYSTEM-DESIGN
+- TECH-SUPPORT
+- NETWORK-DESIGN
+- WEB-APP
+- AI / MACHINE LEARNING
+- AUTOMATION
+- AZURE/MS365 SERVICES
 
 ###
 
@@ -70,13 +74,13 @@ I have 3 years of hands-on experience in both Network Data LAN-WAN and Enterpris
 
 ###
 
-* Programmed a Best Thesis Project using Raspberry Pi and Python
-* Programmed a Runner Up Thesis Project using Arduino and Python
-* Became a Raspberry Pi and Python Workshop Instructor
-* Became a SQL Workshop Instructor
-* Became a Web Development Workshop Instructor
-* Recognized as Excellent Work at CYCU, Taiwan
-* Has helped <a href="https://github.com/frosteen/Freelance-Projects">100+ Client Projects<a>
+- Programmed a Best Thesis Project using Raspberry Pi and Python
+- Programmed a Runner Up Thesis Project using Arduino and Python
+- Became a Raspberry Pi and Python Workshop Instructor
+- Became a SQL Workshop Instructor
+- Became a Web Development Workshop Instructor
+- Recognized as Excellent Work at CYCU, Taiwan
+- Has helped <a href="https://github.com/frosteen/Freelance-Projects">100+ Client Projects<a>
 
 ###
 
@@ -84,15 +88,15 @@ I have 3 years of hands-on experience in both Network Data LAN-WAN and Enterpris
 
 ###
 
-* <a href="https://github.com/frosteen/Freelance-Projects">Freelance-Projects</a> (Private)
-* <a href="https://github.com/frosteen/Smart-CCTV-Security-System-using-Facial-Recognition-through-Deep-Learning">Smart-CCTV-Security-System-using-Facial-Recognition-through-Deep-Learning</a>
-* <a href="https://github.com/frosteen/IoT-Based-Faculty-Managing-System-using-Raspberry-Pi-and-Time-Activated-Power-Saving-Monitor">IoT-Based-Faculty-Managing-System-using-Raspberry-Pi-and-Time-Activated-Power-Saving-Monitor</a>
-* <a href="https://github.com/frosteen/IoT-Based_SM-Megamall_Packet-Tracer_Project">IoT-Based_SM-Megamall_Packet-Tracer_Project</a>
-* <a href="https://github.com/frosteen/ExamTopics_Scrapper">ExamTopics_Scrapper</a> (Private)
-* <a href="https://github.com/frosteen/WANDERER-Team-Cardinals-App">WANDERER-Team-Cardinals-App</a>
-* <a href="https://github.com/frosteen/Roblox_LUA_Weapon_Scripts">Roblox_LUA_Weapon_Scripts</a>
-* <a href="https://github.com/frosteen/Technical-Workshops">Technical-Workshops</a>
-* <a href="https://github.com/frosteen/Snake-Game">Snake-Game</a>
+- <a href="https://github.com/frosteen/Freelance-Projects">Freelance-Projects</a> (Private)
+- <a href="https://github.com/frosteen/Smart-CCTV-Security-System-using-Facial-Recognition-through-Deep-Learning">Smart-CCTV-Security-System-using-Facial-Recognition-through-Deep-Learning</a>
+- <a href="https://github.com/frosteen/IoT-Based-Faculty-Managing-System-using-Raspberry-Pi-and-Time-Activated-Power-Saving-Monitor">IoT-Based-Faculty-Managing-System-using-Raspberry-Pi-and-Time-Activated-Power-Saving-Monitor</a>
+- <a href="https://github.com/frosteen/IoT-Based_SM-Megamall_Packet-Tracer_Project">IoT-Based_SM-Megamall_Packet-Tracer_Project</a>
+- <a href="https://github.com/frosteen/ExamTopics_Scrapper">ExamTopics_Scrapper</a> (Private)
+- <a href="https://github.com/frosteen/WANDERER-Team-Cardinals-App">WANDERER-Team-Cardinals-App</a>
+- <a href="https://github.com/frosteen/Roblox_LUA_Weapon_Scripts">Roblox_LUA_Weapon_Scripts</a>
+- <a href="https://github.com/frosteen/Technical-Workshops">Technical-Workshops</a>
+- <a href="https://github.com/frosteen/Snake-Game">Snake-Game</a>
 
 ###
 
@@ -208,7 +212,6 @@ I have 3 years of hands-on experience in both Network Data LAN-WAN and Enterpris
   <li>Mobile: +639476207065</li>
   <li>Email: <a href="mailto:luispambid@gmail.com">luispambid@gmail.com</a></li>
   <li>LinkedIn: <a href="https://linkedin.com/in/pambidluis">LinkedIn</a></li>
-  <li>Upwork: <a href="https://www.upwork.com/workwith/luisdanielp2">Upwork</a></li>
 </ul>
 
 ###
