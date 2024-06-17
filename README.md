@@ -47,7 +47,7 @@ I have 3 years of hands-on experience in both Network Data LAN-WAN and Enterpris
 
 ###
 
-<p align="left">To help my clients by means of technical skills.</p>
+<p align="left">Dedicated to delivering comprehensive and cutting-edge software solutions tailored to meet the diverse needs of our clients.</p>
 
 ###
 
@@ -55,18 +55,20 @@ I have 3 years of hands-on experience in both Network Data LAN-WAN and Enterpris
 
 ###
 
-- MOBILE-APP
-- THESIS-DESIGN
-- TSHOOT
-- ELECTRONICS-DESIGN
-- DESKTOP-APP
-- SYSTEM-DESIGN
-- TECH-SUPPORT
-- NETWORK-DESIGN
-- WEB-APP
-- AI / MACHINE LEARNING
-- AUTOMATION
-- AZURE/MS365 SERVICES
+- Mobile App Development
+- Desktop-App Development
+- Web-App Development
+- Front-End Development
+- Back-End Development
+- Full-Stack Development
+- Software Development
+- Embedded Development
+- Artificial Intelligence / Machine Learning
+- Automation
+- Arduino & Raspberry Pi
+- Firebase
+- Office365 & Microsoft Power Platform
+- Linux/MacOS
 
 ###
 
@@ -74,13 +76,13 @@ I have 3 years of hands-on experience in both Network Data LAN-WAN and Enterpris
 
 ###
 
-- Programmed a Best Thesis Project using Raspberry Pi and Python
-- Programmed a Runner Up Thesis Project using Arduino and Python
+- Helped Over <a href="https://github.com/frosteen/Freelance-Projects">100+ Clients<a>
+- Recognized as Excellent Work at CYCU, Taiwan
+- Developed a Best Thesis Project using Raspberry Pi and Python
+- Developed a Runner Up Thesis Project using Arduino and Python
 - Became a Raspberry Pi and Python Workshop Instructor
 - Became a SQL Workshop Instructor
 - Became a Web Development Workshop Instructor
-- Recognized as Excellent Work at CYCU, Taiwan
-- Has helped <a href="https://github.com/frosteen/Freelance-Projects">100+ Client Projects<a>
 
 ###
 
