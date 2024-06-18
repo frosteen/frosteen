@@ -67,7 +67,9 @@ I have 3 years of hands-on experience in both Network Data LAN-WAN and Enterpris
 - Automation
 - Arduino & Raspberry Pi
 - Firebase
-- Office365 & Microsoft Power Platform
+- Azure Admin/DevOps/AI
+- Office365
+- Microsoft Power Platform
 - Linux/MacOS
 
 ###
