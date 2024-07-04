@@ -56,20 +56,35 @@ I have 3 years of hands-on experience in both Network Data LAN-WAN and Enterpris
 ###
 
 ✅ Mobile-App Development
+<br>
 ✅ Desktop-App Development
+<br>
 ✅ Web-App Development
+<br>
 ✅ Front-End Development
+<br>
 ✅ Back-End Development
+<br>
 ✅ Full-Stack Development
+<br>
 ✅ Software Development
+<br>
 ✅ Embedded Development
+<br>
 ✅ Artificial Intelligence / Machine Learning
+<br>
 ✅ Automation
+<br>
 ✅ Arduino & Raspberry Pi
+<br>
 ✅ Firebase
+<br>
 ✅ Office365
+<br>
 ✅ Azure Admin/DevOps/AI
+<br>
 ✅ Microsoft Power Platform
+<br>
 ✅ Linux/MacOS
 
 ###
@@ -79,21 +94,37 @@ I have 3 years of hands-on experience in both Network Data LAN-WAN and Enterpris
 ###
 
 ⭐ Top Rated Plus +
+<br>
 ⭐ Saved Cost & Generated More Revenues for Customers
+<br>
 ⭐ Deliverd Projects Successfully
+<br>
 ⭐ Helped Over 100+ Customers
+<br>
 ⭐ Led a Team of Software/Network Engineers
+<br>
 ⭐ Worked on Large Contracts
+<br>
 ⭐ Python for Back-End Development Certified @ Upwork
+<br>
 ⭐ Automated Deployment Processes
+<br>
 ⭐ Created Innovative Solutions
+<br>
 ⭐ Built and Supported MVPs
+<br>
 ⭐ Contributed to Open-Source Projects
+<br>
 ⭐ Developed a Best Project using Raspberry Pi and Python
+<br>
 ⭐ Developed a Runner-Up Project using Arduino and Python
+<br>
 ⭐ Instructor for Raspberry Pi, Python, SQL, and Web Development Workshops
+<br>
 ⭐ Recognized for Excellent Work at CYCU, Taiwan
+<br>
 ⭐ Experienced Developer since 14 Years Old
+<br>
 
 ###
 
