@@ -55,22 +55,22 @@ I have 3 years of hands-on experience in both Network Data LAN-WAN and Enterpris
 
 ###
 
-- Mobile App Development
-- Desktop-App Development
-- Web-App Development
-- Front-End Development
-- Back-End Development
-- Full-Stack Development
-- Software Development
-- Embedded Development
-- Artificial Intelligence / Machine Learning
-- Automation
-- Arduino & Raspberry Pi
-- Firebase
-- Azure Admin/DevOps/AI
-- Office365
-- Microsoft Power Platform
-- Linux/MacOS
+✅ Mobile-App Development
+✅ Desktop-App Development
+✅ Web-App Development
+✅ Front-End Development
+✅ Back-End Development
+✅ Full-Stack Development
+✅ Software Development
+✅ Embedded Development
+✅ Artificial Intelligence / Machine Learning
+✅ Automation
+✅ Arduino & Raspberry Pi
+✅ Firebase
+✅ Office365
+✅ Azure Admin/DevOps/AI
+✅ Microsoft Power Platform
+✅ Linux/MacOS
 
 ###
 
@@ -78,13 +78,22 @@ I have 3 years of hands-on experience in both Network Data LAN-WAN and Enterpris
 
 ###
 
-- Helped Over <a href="https://github.com/frosteen/Freelance-Projects">100+ Clients<a>
-- Recognized as Excellent Work at CYCU, Taiwan
-- Developed a Best Thesis Project using Raspberry Pi and Python
-- Developed a Runner Up Thesis Project using Arduino and Python
-- Became a Raspberry Pi and Python Workshop Instructor
-- Became a SQL Workshop Instructor
-- Became a Web Development Workshop Instructor
+⭐ Top Rated Plus +
+⭐ Saved Cost & Generated More Revenues for Customers
+⭐ Deliverd Projects Successfully
+⭐ Helped Over 100+ Customers
+⭐ Led a Team of Software/Network Engineers
+⭐ Worked on Large Contracts
+⭐ Python for Back-End Development Certified @ Upwork
+⭐ Automated Deployment Processes
+⭐ Created Innovative Solutions
+⭐ Built and Supported MVPs
+⭐ Contributed to Open-Source Projects
+⭐ Developed a Best Project using Raspberry Pi and Python
+⭐ Developed a Runner-Up Project using Arduino and Python
+⭐ Instructor for Raspberry Pi, Python, SQL, and Web Development Workshops
+⭐ Recognized for Excellent Work at CYCU, Taiwan
+⭐ Experienced Developer since 14 Years Old
 
 ###
 
