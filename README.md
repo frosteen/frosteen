@@ -8,7 +8,7 @@
   <a href="https://linkedin.com/in/pambidluis" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://www.upwork.com/freelancers/luisdanielp2" target="_blank">
+  <a href="https://www.upwork.com/freelancers/luispambid" target="_blank">
     <img src="https://d1eipm3vz40hy0.cloudfront.net/images/Customer+Stories+/Upwork/upwork_logo.png" height="25" alt="upwork logo"  />
   </a>
   <a href="https://danieluisph.contra.com/" target="_blank">
