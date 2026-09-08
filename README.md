@@ -37,7 +37,7 @@ Hello, I'm Luis Daniel Pambid, an experienced full-stack developer, a licensed E
 
 I delve into freelance projects as a full-time endeavor to stay updated with evolving technologies. With over 6 years of experience in Arduino, Raspberry Pi, and Python, I specialize in Full-Stack Development for both Web and Software applications, such as Image Processing, Object Detection, Automation/Web Scraping, Databases, AI/ML, Graphical User Interfaces, and Hardware/Software Development.
 
-I have 3 years of hands-on experience in both Network Data LAN-WAN and Enterprise Networks; I specialize in implementing Cisco's Automation and SD-WAN Solutions. I've received multiple awards in each company I've worked for, consistently exceeding customer expectations. Commended by both lead and higher-ups' managers, I bring not only technical expertise but also strong work ethics, efficiently leading teams of both Network and Software Engineers. I assure you that I would be a great asset to your company.
+I have 3 years of hands-on experience in both Network Data LAN-WAN and Enterprise Networks; I specialize in implementing Cisco's Automation and SD-WAN Solutions. Galloping Horse Award, Huawei (2021). Network Product Line Achiever, Accenture (2023). Software and automation engineer for a US managed service provider, owning delivery end to end, mentoring developers and acting as the escalation point colleagues record in their own notes. I assure you that I would be a great asset to your company.
 
 </p>
 
@@ -93,19 +93,11 @@ I have 3 years of hands-on experience in both Network Data LAN-WAN and Enterpris
 
 ###
 
-⭐ Top Rated Plus +
+⭐ Delivered Projects Successfully
 <br>
-⭐ Saved Cost & Generated More Revenues for Customers
-<br>
-⭐ Deliverd Projects Successfully
-<br>
-⭐ Helped Over 100+ Customers
-<br>
-⭐ Led a Team of Software/Network Engineers
+⭐ Mentored Developers and Network Engineers
 <br>
 ⭐ Worked on Large Contracts
-<br>
-⭐ Python for Back-End Development Certified @ Upwork
 <br>
 ⭐ Automated Deployment Processes
 <br>
