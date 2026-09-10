@@ -33,89 +33,86 @@
 ###
 
 <p align="justify">
-Hello, I'm Luis Daniel Pambid, an experienced full-stack developer, a licensed Electronics Engineer, and a Cisco-certified professional with a strong background in AI/ML and Automation. Proficient in various programming languages, including Azure DevOps experience, and with diverse knowledge in tech stacks and platforms, my expertise extends into Network Engineering. I'm a quick learner who thrives on challenges and embraces every opportunity. My journey as an independent developer began in high school, almost 12 years ago, and has evolved into my primary skill. I not only code for myself but also assist others and provide technical support.
+I'm Luis Daniel Pambid, a software and automation engineer with six years of experience, based in the Philippines and working remotely. I'm the sole software and automation engineer for a US managed service provider, Greene Information Systems, where the whole AI and automation capability is one engineer's work from nothing: the internal automation platform on Azure, the applied LLM systems running on it, and the AI-assisted development practice the engineering team now builds with. The platform has recorded 2.1 million successful executions over twelve months and carries five production systems. The practice grew from a single seat to 22 active members.
+</p>
 
-I delve into freelance projects as a full-time endeavor to stay updated with evolving technologies. With over 6 years of experience in Arduino, Raspberry Pi, and Python, I specialize in Full-Stack Development for both Web and Software applications, such as Image Processing, Object Detection, Automation/Web Scraping, Databases, AI/ML, Graphical User Interfaces, and Hardware/Software Development.
+<p align="justify">
+Day to day that is one seat covering five kinds of work: client engagements scoped, built and handed over end to end; internal platform and cloud engineering on Azure; identity and access across Microsoft 365 and Entra; data pipelines and reporting; and applied AI on top of all of it. About as much of what I touch is inherited as green-field, so a lot of the job is taking over a system I did not build, learning it fast, and leaving it documented and deployable. I also founded and run YenkoDev, a registered Philippine software studio, where I hold the stack, hiring, rate and delivery decisions for around ten paid developers.
+</p>
 
-I have 3 years of hands-on experience in both Network Data LAN-WAN and Enterprise Networks; I specialize in implementing Cisco's Automation and SD-WAN Solutions. Galloping Horse Award, Huawei (2021). Network Product Line Achiever, Accenture (2023). Software and automation engineer for a US managed service provider, owning delivery end to end, mentoring developers and acting as the escalation point colleagues record in their own notes. I assure you that I would be a great asset to your company.
-
+<p align="justify">
+Before software I spent more than three years in networks: enterprise routing, switching and Cisco SD-WAN at Accenture, and telecom cloud core at Huawei, where the automation habit started. I'm a licensed Electronics Engineer and Electronics Technician (PRC, Philippines) and hold CCNP Enterprise with the Enterprise Core and Enterprise SD-WAN Implementation specialist certifications. The networking is background now rather than the pitch, but change control against a live production estate is a skill that never stopped paying.
 </p>
 
 ###
 
-<h3 align="left">🎯 Objective</h3>
+<h3 align="left">🎯 What I'm Looking For</h3>
 
 ###
 
-<p align="left">Dedicated to delivering comprehensive and cutting-edge software solutions tailored to meet the diverse needs of our clients.</p>
+<p align="left">Software engineering, AI engineering, and forward deployed engineering roles, plus one or two long-term clients at a time on the Microsoft stack. What I enjoy most is being dropped in front of an unfamiliar system with a real problem attached to it.</p>
 
 ###
 
-<h3 align="left">✍ Services Offered</h3>
+<h3 align="left">✍ What I Build</h3>
 
 ###
 
-✅ Mobile-App Development
+✅ Applied LLM systems: structured extraction at volume, RAG, tool-calling agents, MCP servers
 <br>
-✅ Desktop-App Development
+✅ Workflow automation and systems integration (n8n, Power Automate, REST APIs, webhooks)
 <br>
-✅ Web-App Development
+✅ Azure platform engineering: Container Apps, Functions, Static Web Apps, Key Vault, Bicep
 <br>
-✅ Front-End Development
+✅ Microsoft 365, Entra ID and Intune administration and security automation
 <br>
-✅ Back-End Development
+✅ Full-stack web apps: React, Next.js, TypeScript, Node.js, PostgreSQL
 <br>
-✅ Full-Stack Development
+✅ Cross-platform desktop apps (Electron) and mobile apps shipped to both app stores
 <br>
-✅ Software Development
+✅ Data pipelines, reporting and analytics
 <br>
-✅ Embedded Development
+✅ Azure DevOps: Repos, Pipelines, Boards and organisation administration
 <br>
-✅ Artificial Intelligence / Machine Learning
+✅ AI-assisted development practice: standards, guardrails and mentoring (Claude Code, Codex)
 <br>
-✅ Automation
+✅ Platform migrations (Atlassian, tenant to tenant, low-code to code)
 <br>
-✅ Arduino & Raspberry Pi
+✅ Embedded and IoT: Arduino, Raspberry Pi, computer vision
 <br>
-✅ Firebase
-<br>
-✅ Office365
-<br>
-✅ Azure Admin/DevOps/AI
-<br>
-✅ Microsoft Power Platform
-<br>
-✅ Linux/MacOS
+✅ Network automation with Python against Cisco and Juniper estates
 
 ###
 
-<h3 align="left">⭐ Achievements</h3>
+<h3 align="left">⭐ Selected Work</h3>
 
 ###
 
-⭐ Delivered Projects Successfully
+⭐ Proposed, built and operate an internal automation platform on Azure: 2.1M successful executions in twelve months, five production systems
 <br>
-⭐ Mentored Developers and Network Engineers
+⭐ Built AI ticket intelligence over a live PSA: structured extraction across 2.1M ticket events, plus a customer-sentiment escalation loop leadership has answered 108 times
 <br>
-⭐ Worked on Large Contracts
+⭐ Introduced AI-assisted development to the engineering team unprompted and grew the practice from one seat to 22 active members
 <br>
-⭐ Automated Deployment Processes
+⭐ Moved 83,722 Jira issues in one production cutover, proved across two full sandbox rehearsals
 <br>
-⭐ Created Innovative Solutions
+⭐ Migrated 133,331 Jira issues after the vendor's own tool failed
 <br>
-⭐ Built and Supported MVPs
+⭐ Grew two tenant reports into a 26-job monitoring platform across 55 customer tenants, declared in Bicep
 <br>
-⭐ Contributed to Open-Source Projects
+⭐ Diagnosed an inherited refunds automation the bank kept rejecting and recovered 284 stranded patient refunds, five days after first seeing the system
 <br>
-⭐ Developed a Best Project using Raspberry Pi and Python
+⭐ Delivered 1,309 billed hours across 45 client organisations and 22 projects since 2024
 <br>
-⭐ Developed a Runner-Up Project using Arduino and Python
+⭐ Galloping Horse Award, Huawei (2021), as automation script expert
 <br>
-⭐ Instructor for Raspberry Pi, Python, SQL, and Web Development Workshops
+⭐ Network Product Line Achiever, Accenture (2023), most closed user stories for the month
 <br>
-⭐ Recognized for Excellent Work at CYCU, Taiwan
+⭐ Mentor developers and network engineers, and run engineering hiring end to end
 <br>
-⭐ Experienced Developer since 14 Years Old
+⭐ Instructor for Raspberry Pi, SQL and Web Development workshops (IECEP Mapúa student chapter)
+<br>
+⭐ Excellent Work citation, International Contest on Smart Technology Design, CYCU Taiwan (2019)
 <br>
 
 ###
@@ -124,100 +121,128 @@ I have 3 years of hands-on experience in both Network Data LAN-WAN and Enterpris
 
 ###
 
-- <a href="https://github.com/frosteen/Freelance-Projects">Freelance-Projects</a> (Private)
-- <a href="https://github.com/frosteen/ExamTopics_Scrapper">ExamTopics_Scrapper</a> (Private)
 - <a href="https://github.com/frosteen/Smart-CCTV-Security-System-using-Facial-Recognition-through-Deep-Learning">Smart-CCTV-Security-System-using-Facial-Recognition-through-Deep-Learning</a>
 - <a href="https://github.com/frosteen/IoT-Based-Faculty-Managing-System-using-Raspberry-Pi-and-Time-Activated-Power-Saving-Monitor">IoT-Based-Faculty-Managing-System-using-Raspberry-Pi-and-Time-Activated-Power-Saving-Monitor</a>
 - <a href="https://github.com/frosteen/IoT-Based_SM-Megamall_Packet-Tracer_Project">IoT-Based_SM-Megamall_Packet-Tracer_Project</a>
 - <a href="https://github.com/frosteen/WANDERER-Team-Cardinals-App">WANDERER-Team-Cardinals-App</a>
-- <a href="https://github.com/frosteen/Roblox_LUA_Weapon_Scripts">Roblox_LUA_Weapon_Scripts</a>
 - <a href="https://github.com/frosteen/Technical-Workshops">Technical-Workshops</a>
+- <a href="https://github.com/frosteen/Roblox_LUA_Weapon_Scripts">Roblox_LUA_Weapon_Scripts</a>
 - <a href="https://github.com/frosteen/Snake-Game">Snake-Game</a>
 
-###
-
-<h3 align="left">🛠 Programing Languages and Tools</h3>
+<p align="justify">These are older personal and academic projects. Most of my current work is in private client and company repositories, so this account is not a representative sample of what I build now. Happy to walk through the current work in a call.</p>
 
 ###
 
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Google Pay](https://img.shields.io/badge/GooglePay-%233780F1.svg?style=for-the-badge&logo=Google-Pay&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white)
-![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr)
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+<h3 align="left">🛠 Languages and Tools</h3>
+
+###
+
+**Languages**
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-4EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%23025E8C.svg?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+**AI and Data**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Microsoft Visio ](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
-![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
-![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white)
-![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
-![Huawei](https://img.shields.io/badge/Huawei-%23FF0000.svg?style=for-the-badge&logo=huawei&logoColor=white)
+
+**Web, App and Desktop**
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=%23D04A37)
 ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
 ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+**Cloud, Microsoft and DevOps**
+
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+
+**Data Stores**
+
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Automation, Integration and Ops Tools**
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft Visio ](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white)
+
+**Hardware, Networking and Systems**
+
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Espressif](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+###
+
+<h3 align="left">🎓 Certifications and Licences</h3>
+
+###
+
+- **Licensed Electronics Engineer** and **Licensed Electronics Technician**, Professional Regulation Commission, Philippines (2022)
+- **CCNP Enterprise**, Cisco (2023, valid to Nov 2026)
+- **Cisco Certified Specialist, Enterprise Core** (2023, valid to Nov 2026)
+- **Cisco Certified Specialist, Enterprise SD-WAN Implementation** (2023, valid to Nov 2026)
+- Courses: Claude Code 101, Claude 101, Claude Platform 101, Claude Code in Action, AI Fluency Framework and Foundations (Anthropic, 2026); Network Programming and Automation (Network to Code, 2023)
+- **BS Electronics Engineering**, Advanced Internet Protocol Networking, Mapúa University (2015 to 2020)
 
 ###
 
@@ -235,7 +260,7 @@ I have 3 years of hands-on experience in both Network Data LAN-WAN and Enterpris
 
 ###
 
-<p>We can setup a 1v1 meeting, and I'll teach you my ways on how I can easily grasp the basics and syntax of any programming language. You can reach me via email or linkedin. Thank you!</p>
+<p>We can set up a 1v1 meeting, and I'll show you how I pick up the basics and syntax of any programming language quickly, and how I work with AI coding tools without letting the quality slip. You can reach me via email or LinkedIn. Thank you!</p>
 
 ###
 
