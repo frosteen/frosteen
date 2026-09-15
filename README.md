@@ -75,7 +75,7 @@ Day to day that is one seat covering five kinds of work: client engagements scop
 
 **Platform and scale**
 
-- Proposed, built and operate an internal automation platform on Azure carrying 2.1 million successful executions and five production systems, on a single 2 vCPU virtual machine at about $100 a month
+- Proposed, built and operate the Azure automation platform every internal AI and integration system runs on, five production systems on a single 2 vCPU virtual machine
 - Grew two tenant reports into a 26-job Container Apps monitoring platform across 55 customer tenants, declared in Bicep
 - Moved 83,722 Jira issues in one production cutover into a 2,000-seat enterprise tenant
 - Migrated 133,331 Jira issues in 24 mapped batches after the vendor's own supported tool proved unusable
