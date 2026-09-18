@@ -23,11 +23,11 @@
 ###
 
 <p align="justify">
-Six years in production software, based in the Philippines and working remotely. The last two as the sole software and automation engineer for a US managed service provider, where the AI and automation capability was built from zero: the automation platform on Azure, the applied LLM systems running on it, and the AI-assisted development practice the engineering team now builds with. Most of what I ship lives in private client and company repositories, so this account is not a representative sample of my current work. Happy to walk through it in a call.
+Software and automation engineer, six years in production, based in the Philippines and working remotely on US Pacific hours. For the last two years I have been the sole software and automation engineer for a US managed service provider, delivering across 22 projects for 45 client organisations. The AI and automation capability there was built from zero: the automation platform on Azure, the applied LLM systems that run on it, and the AI-assisted development practice the engineering team now builds with.
 </p>
 
 <p align="justify">
-Day to day that is one seat covering five kinds of work: client engagements scoped, built and handed over end to end; internal platform and cloud engineering on Azure; identity and access across Microsoft 365 and Entra; data pipelines and reporting; and applied AI on top of all of it. About as much of what I touch is inherited as green-field, so a lot of the job is taking over a system I did not build, learning it, and leaving it documented and deployable. I also founded and run a registered Philippine software studio, where I hold the stack, hiring, rate and delivery decisions for around ten paid developers. Before software I spent more than three years in enterprise networks and telecom cloud core, which is where the automation habit started; it is background now rather than the pitch, but change control against a live production estate is a skill that never stopped paying.
+That one seat covers five kinds of work: client engagements scoped, built and handed over end to end; internal platform and cloud engineering on Azure; identity and access across Microsoft 365 and Entra; data pipelines and reporting; and applied AI on top of all of it. About as much of what I touch is inherited as green-field, so a lot of the job is taking over a system I did not build, learning it, and leaving it documented and deployable. I also founded and run a registered Philippine software studio, where I hold the stack, hiring, rate and delivery decisions for around ten paid developers. Before software I spent more than three years in enterprise networks and telecom cloud core, which is where the automation habit started. That is background now rather than the pitch, though change control against a live production estate is a skill that never stopped paying. Most of what I ship lives in private client and company repositories, so this account is not a representative sample of my current work, and I am happy to walk through it in a call.
 </p>
 
 ###
@@ -61,7 +61,7 @@ Day to day that is one seat covering five kinds of work: client engagements scop
 
 **Dropped into someone else's system**
 
-- Diagnosed why a bank kept rejecting a client's patient-refund file, corrected 284 stranded refunds and got them accepted, five days after first seeing the system
+- Diagnosed why a bank kept rejecting a client's patient-refund files and got 284 stranded refunds processed and paid, five days after first seeing the system
 - Took over a client's decade-old production CRM from its departing in-house engineer and became its only developer across three engagements, adding source control, automated deployment and its first system documentation
 - Reconstructed three undocumented inherited client systems into read-only knowledge vaults in eight days, 359 notes with refresh pipelines and redaction gates
 - Forked an open-source ConnectWise MCP server and added per-member impersonation, Key Vault key storage and per-call auditing, live for the whole company in three days
