@@ -11,9 +11,6 @@
   <a href="https://www.upwork.com/freelancers/luispambid" target="_blank">
     <img src="https://d1eipm3vz40hy0.cloudfront.net/images/Customer+Stories+/Upwork/upwork_logo.png" height="25" alt="upwork logo"  />
   </a>
-  <a href="https://danieluisph.contra.com/" target="_blank">
-    <img src="https://media.contra.com/image/upload/mx70gukigryiwtnog5na" height="25" alt="contra logo"  />
-  </a>
 </div>
 
 ###
