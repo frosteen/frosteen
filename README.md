@@ -20,7 +20,7 @@
 ###
 
 <p align="justify">
-Software and automation engineer, six years in production, based in the Philippines and working remotely on US Pacific hours. For the last two years I have been the sole software and automation engineer for a US managed service provider, delivering across 22 projects for 45 client organisations. The AI and automation capability there was built from zero: the automation platform on Azure, the applied LLM systems that run on it, and the AI-assisted development practice the engineering team now builds with.
+Software and automation engineer, six years in production, based in the Philippines and working remotely on US Pacific hours. For the last two years I have been the sole software and automation engineer for a US managed service provider, delivering across 22 projects for 45 client organisations. There I built the automation platform on Azure, the applied LLM systems that run on it, and the AI-assisted development practice the engineering team now builds with.
 </p>
 
 <p align="justify">
@@ -45,7 +45,7 @@ That one seat covers five kinds of work: client engagements scoped, built and ha
 - Applied LLM systems: tool-calling agents, MCP servers, structured extraction at volume, RAG
 - Workflow automation and systems integration (n8n, Power Automate, REST APIs, webhooks)
 - Azure platform engineering: Container Apps, Functions, Static Web Apps, Key Vault, Bicep
-- Microsoft 365, Entra ID and Intune administration and security automation
+- Microsoft 365 and Entra ID administration and security automation, plus Intune packaging and reporting
 - Full-stack web apps in React, Next.js and TypeScript, plus Electron desktop and mobile
 - Data pipelines, reporting, and Azure DevOps repos, pipelines and boards
 - Embedded and IoT on Raspberry Pi, with on-device computer vision
