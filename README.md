@@ -1,6 +1,6 @@
 <h1 align="center">Luis Daniel Pambid</h1>
 
-<p align="center">Software Engineer | AI and Automation Engineer | Forward Deployed Engineer</p>
+<p align="center">Forward Deployed Engineer | Software Engineer | AI and Automation Engineer</p>
 
 ###
 
@@ -20,7 +20,7 @@
 ###
 
 <p align="justify">
-Software and automation engineer, six years in production, based in the Philippines and working remotely on US Pacific hours. For the last two years I have been a software and automation engineer for a US managed service provider, delivering across 22 projects for 45 client organisations. There I built the automation platform on Azure, the applied LLM systems that run on it, and the AI-assisted development practice the engineering team now builds with.
+I am a forward deployed engineer: I solve complex business problems from inside the business. Six years in production software and automation, based in the Philippines and working remotely on US Pacific hours. For the last two years I have been a software and automation engineer for a US managed service provider, delivering across 22 projects for 45 client organisations. There I built the automation platform on Azure, the applied LLM systems that run on it, and the AI-assisted development practice the engineering team now builds with.
 </p>
 
 <p align="justify">
